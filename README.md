@@ -127,9 +127,4 @@ This project is licensed for research and educational use only. Commercial use r
 * 🧠 Multi-document summarization
 * 📚 Support for additional formats (DOCX, HTML, etc.)
 
----
 
-```
-
-Let me know if you'd like a PDF version of this or want it tailored for a specific deployment environment (e.g., HuggingFace Hub, Docker, or production API).
-```
